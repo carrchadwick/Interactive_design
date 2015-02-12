@@ -1,0 +1,93 @@
+/*style one*/
+
+body.one {
+	background: yellow;
+}
+
+body.one h1{
+	font-family: Impact;
+}
+
+
+
+/*style two_twitter*/
+
+body.two {
+	background: grey;
+	background:url(http://freewallpaperdownloads.net/wp-content/uploads/2014/09/android-background-gif.gif);
+	background-size:100%;
+	color: #292f33;
+	font-size: 14px;
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+	
+}
+
+body.two h1 {
+	color: #292f33;
+	
+}
+
+body.two p {
+	font-size: 20px;
+	font-weight: 300;
+	line-height: 22px;
+}
+
+body.two #container {
+	border-radius: 4px;
+	background-color: white;
+	width: 400px;
+	margin: auto;
+	padding: 20px;
+	margin-top: 30px;
+}
+
+/*style three*/
+
+body.three{
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;;
+	font-size: 14px;
+	margin: 0;
+
+}
+
+body.three .title {
+	background-color: #000;
+	padding: 10px 10px 5px 0;
+	}
+
+body.three .author {
+	background-color: #444;
+	padding: 5px 5px 2px 5px;
+	color: white
+
+	}
+	
+body.three .first {
+	color: black;
+	font-size: 20px;
+}
+
+body.three h1 {
+	color: white;
+	margin-bottom: 0px;
+}
+body.three h2 {
+}
+
+body.three .text {
+	border-radius: 10px;
+	background-color: rgb(209, 209, 209);
+	width: 500px;
+	margin-top: 40px;
+	margin-left: 15px;
+	padding-top: 10px;
+}
+
+
+
+
+
+
+
+
