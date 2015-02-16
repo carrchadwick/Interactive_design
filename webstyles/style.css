@@ -937,13 +937,16 @@ body.nineteen {
 }
 
 body.nineteen header {
-	color: white;
-	text-align: center;
+	color: rgb(144, 206, 248);
+	padding-top: 60px;
+	padding-bottom: 60px;
+	text-align: right;
+	padding-right: 60px;
 	width: 100%;
-	background-color: pink;
+	background-color: navy;
 	text-decoration: line-through;
-	font-size: 100px;
-	font-family: 'Alegreya Sans SC', sans-serif;
+	font-size: 15px;
+	font-family: 'helvetica';
 	margin-top: 0px;
 }
 
@@ -1008,7 +1011,7 @@ body.twenty h2 {
 	
 }
 
-body.twent. blockquote {
+body.twenty. blockquote {
 	color: white:;
 }
 body.twenty p {
