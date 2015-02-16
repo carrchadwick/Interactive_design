@@ -32,7 +32,7 @@ body.one .button {
 		left: 500px;
 		opacity: 100%;
 		box-shadow: 500px 500px 500px rgba(215, 77, 180, 0.25);
-
+		margin-right: 30px
 
 }
 
@@ -71,8 +71,7 @@ body.two .button {
 
 }
 
-body.two.button:hover {
-	width: 300%;
+
 }
 
 /*three*/
@@ -107,7 +106,7 @@ body.three h2 {
 	letter-spacing: 150px;
 }
 
-body.three.button {
+body.three .button {
 		width: 240px;
 		height: 240px;
 		position: fixed;
@@ -146,10 +145,10 @@ body.four h2 {
 	
 }
 
-body.four.button {
+body.four .button {
 	position: absolute; 
 	top: 100px;
-	right: 0px;
+	right: 300px;
 	box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.75);
 		
 
@@ -160,33 +159,52 @@ body.four.button {
 /*five*/
 
 
+body.five {
+	background-color: navy;
+	width: 600px;
+}
+
 body.five header {
-	
+	display: inline-block;
+	background: rgb(144, 206, 248);
+	box-shadow: 200px 200px 200px rgba(215, 77, 180, 0.75);
+	width: 750px;
+	font-family: Lucida Console, Monaco, monospace;
+	color: pink;
 
 }
 
 body.five h1 {
+		background-color: navy;
+	width: 1000px;
+
 	
 	
 }
 
 body.five h2 {
-	
+	text-align: center;
 }
 
-.button {
-
+body.five .button {
+	width: 240px;
+		height: 240px;
+		position: fixed;
+		bottom: 0;
+		left: 100px;
+		box-shadow: 100px 200px 200px rgba(215, 77, 180, 0.25);
+		
 		
 
 
 }
 
 
-
 /*six*/
 
 
 body.six header {
+
 	
 
 }
@@ -200,7 +218,7 @@ body.six h2 {
 	
 }
 
-.button {
+body.six .button {
 
 		
 
