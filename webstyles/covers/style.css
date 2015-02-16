@@ -15,7 +15,7 @@ body.one header {
 }
 
 body.one h1 {
-	letter-spacing: 30px;
+	letter-spacing: 2px;
 	
 }
 
@@ -23,6 +23,282 @@ body.one h2 {
 	margin-left: 300px;
 }
 
-body.one #container {
+body.one .button {
+
+		width: 240px;
+		height: 240px;
+		position: absolute;
+		bottom: 0;
+		left: 500px;
+		opacity: 100%;
+		box-shadow: 500px 500px 500px rgba(215, 77, 180, 0.25);
+
+
+}
+
+/*two*/
+
+
+body.two header {
+		font-family: helvetica;
+		font-size: 200px;
+
+
+}
+
+body.two h1 {
+
+	background: orange;
+
+	
+	
+}
+
+body.two h2 {
+	background-color: red;
+
+	
+}
+body.two .button {
+
+		width: 240px;
+		height: 240px;
+		position: fixed;
+		top: 0;
+		right: 0;
+		opacity: 30%;
+
+
+}
+
+body.two.button:hover {
+	width: 300%;
+}
+
+/*three*/
+
+
+}
+
+body.three header {
+	background: black;
+
+	
+
+}
+
+body.three h1 {
+	font-size: 20px;
+	background: url(http://www.positivedisciplining.com/g1emb14.gif);
+	color: white;
+	text-align: center;
+	font-family: impact;
+	letter-spacing: 100px;
+	
+}
+
+body.three h2 {	
+	font-size: 20px;
+	background: url(http://www.positivedisciplining.com/g1emb14.gif);
+	color: white;
+	text-align: center;
+	margin-top: 900px;
+	font-family: impact;
+	letter-spacing: 150px;
+}
+
+body.three.button {
+		width: 240px;
+		height: 240px;
+		position: fixed;
+		top: 500px;
+		right: 0;
+		
+
+		
+
+
+}
+
+
+/*four*/
+
+
+body.four header {
+	
+
+}
+
+body.four h1 {
+	font-family: helvetica;
+	background: magenta;
+	color: green;
+	padding: 200px;
+	border-left: 20px solid red;
+}
+
+body.four h2 {
+		font-family: helvetica;
+	background: magenta;
+	color: green;
+	padding: 100px;
+	border-right: 20px solid red;
+	
+}
+
+body.four.button {
+	position: absolute; 
+	top: 100px;
+	right: 0px;
+	box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.75);
+		
+
+
+}
+
+
+/*five*/
+
+
+body.five header {
+	
+
+}
+
+body.five h1 {
+	
+	
+}
+
+body.five h2 {
+	
+}
+
+.button {
+
+		
+
+
+}
+
+
+
+/*six*/
+
+
+body.six header {
+	
+
+}
+
+body.six h1 {
+	
+	
+}
+
+body.six h2 {
+	
+}
+
+.button {
+
+		
+
+
+}
+
+/*seven*/
+
+
+body.seven header {
+	
+
+}
+
+body.seven h1 {
+	
+	
+}
+
+body.seven h2 {
+	
+}
+
+.button {
+
+		
+
+
+}
+
+/*eight*/
+
+
+body.eight header {
+	
+
+}
+
+body.eight h1 {
+	
+	
+}
+
+body.eight h2 {
+	
+}
+
+.button {
+
+		
+
+
+}
+
+/*nine*/
+
+
+body.nine header {
+	
+
+}
+
+body.nine h1 {
+	
+	
+}
+
+body.nine h2 {
+	
+}
+
+.button {
+
+		
+
+
+}
+
+/*ten*/
+
+
+body.ten header {
+	
+
+}
+
+body.ten h1 {
+	
+	
+}
+
+body.ten h2 {
+	
+}
+
+.button {
+
+		
+
 
 }
