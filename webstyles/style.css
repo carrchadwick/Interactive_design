@@ -84,6 +84,950 @@ body.three .text {
 	padding-top: 10px;
 }
 
+/*four_REM*/
+
+body.four {
+	color: #ababab;
+	font: normal 13px/1.5em Verdana, Helvetica, Arial, sans-serif;
+	background: #000;
+	
+}
+
+body.four header {
+
+}
+
+body.four h1 {
+
+	font: normal bold 13px/1.5em "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, Verdana, sans-serif;
+	color: #029CB8;
+	text-decoration: none;
+	
+}
+
+body.four h2 {
+	font: normal bold 13px/1.5em "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, Verdana, sans-serif;
+	color: #029CB8;
+	text-decoration: none;
+	
+	
+}
+
+
+body.four p {
+
+}
+
+body.four a {
+	color: #029CB8;
+	text-decoration: none;
+
+}
+
+
+
+body.four #container {
+
+width: 620px;
+border: 2px solid #4c4c4c;
+background-color: #191919;
+margin-bottom: 20px;
+position: absolute;
+top: 80px;
+font: normal normal 13px/1.5em Verdana, Helvetica, Arial, sans-serif;
+padding-top: 13px;
+padding-right: 15px;
+padding-bottom: 80px;
+padding-left: 15px;
+left: 80px;
+}
+
+body.four .text {
+
+}
+
+
+
+/*five*/
+
+body.five {
+	font-family: Lucida Console, Monaco, monospace;
+	font-size: 12px;
+	color: #333;
+	background-color: rgb(226, 0, 26);
+}
+
+body.five header {
+
+}
+
+body.five h1 {
+	background-color: black;
+	color: white;
+	display:inline;
+	text-transform: uppercase;
+	font-size: 30pt;
+	letter-spacing: 20pt;
+	
+}
+
+body.five h2 {
+	text-transform: uppercase;
+	border-bottom:3px dotted black;
+	padding-bottom: 10px;
+	
+}
+
+
+body.five p {
+
+
+}
+
+
+body.five a {
+
+}
+
+
+body.five #container {
+	width:700px;
+	margin:50px auto;
+	text-align: center;
+
+}
+
+body.five .text {
+
+}
+
+
+/*six_qo*/
+
+body.six {
+	
+	background-color: rgb(255, 255, 255);
+	color: rgb(221, 221, 221);
+	background-image: url(http://qotile.net/blog/images/weaving250.jpg);
+	display: block;
+	margin: 8px;
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 8pt;
+	color: #666666;
+	font-weight: bold;
+	text-decoration: none;
+
+}
+
+
+body.six header {
+
+	background-color: white;
+	border: 5px solid red;
+	width: 500px;
+	margin: auto;
+	padding: 2px;
+	margin-top: 30px;
+	
+
+
+}
+
+body.six h1 {
+	text-align: center;
+
+
+ }
+
+body.six h2 {
+	text-align: center;
+	
+	
+}
+
+
+body.six p {
+	border: 6px grey;
+	background-color: rgb(209, 209, 209);
+
+
+
+}
+
+body.six a {
+
+}
+
+body.six #container {
+
+
+}
+
+body.six .text {
+	border-color: gray;
+	background-color: white;
+	width: 500px;
+	margin: auto;
+	padding: 20px;
+	margin-top: 30px;
+	border: 5px solid red;
+
+}
+
+
+/*seven_art.yale.edu*/
+
+body.seven {
+	font-family: Arial, Verdana, Helvetica, sans-serif;
+	background-image: url(http://freewallpaperdownloads.net/wp-content/uploads/2015/02/love-pink-iphone-wallpaper-150x150.jpg);
+}
+  
+body.seven header {
+	margin: auto;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 5px;
+	line-height: 14px;
+	color: #ff6e00;
+	padding: 30px 350px 30px 350px;
+
+}
+
+body.seven h1 {
+	
+	
+	
+}
+
+body.seven h2 {
+	background-color: white;
+	font-family: Arial, Helvetica, sans-serif;
+	position: relative; 
+	float: left; 
+	margin-top: 2px; z-index: 500;
+    padding: 8px 12px 8px 0px;
+  	background: #ddd; font-size: 10px;
+     -webkit-box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.75);
+     -moz-box-shadow:    5px 5px 5px rgba(0, 0, 0, 0.75);
+     box-shadow:         5px 5px 5px rgba(0, 0, 0, 0.75);
+	
+	
+}
+
+
+body.seven p {
+	border-color: gray;
+	background-color: yellow;
+	width: 400px;
+	margin: auto;
+	padding: 20px;
+	margin-top: 30px;
+	
+
+}
+body.seven blockquote {
+	background-color: rgb(164, 211, 228);
+	padding: 0px;
+	margin-left: 600px;
+
+}
+body.seven #container {
+
+
+}
+
+body.seven .text {
+
+}
+
+
+/*eight_pointnever.com*/
+
+body.eight {
+	font: 62.5%/1.4em 'Brutal Type', sans-serif;
+	text-align: -webkit-match-parent;
+	
+	
+}
+
+body.eight header {
+	position: fixed;
+	top: 0;
+	left: 0;
+	background-color: #aaa2a2;
+	width: 234px;
+	height: 100%;
+	color: #0645ad;
+	font: 62.5%/1.4em 'Brutal Type', sans-serif;
+	padding-top: 30px;
+
+}
+
+body.eight h1 {
+	font-size: 15px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	
+	
+}
+
+body.eight h2 {
+	font-size: 15px;
+	
+}
+
+
+body.eight p {
+	display: block;
+	font-size: 150%;
+line-height: 1.4em;
+padding-right: 250px;
+padding-left: 300px;
+}
+
+body.eight #container {
+	background-color: #aaa2a2;
+	height: 100%;
+
+}
+
+body.eight .text {
+
+}
+
+
+/*nine*/
+
+body.nine {
+	
+	
+}
+
+body.nine header {
+
+}
+
+body.nine h1 {
+	margin-top: 10px;
+	position: fixed;
+	top: 105px;
+	right: 1px;
+	font-family: 'Helvetica';
+	font-size: 12px;
+	letter-spacing: 1px;
+	line-height: 16px;
+	color: blue;
+	text-decoration: none;
+	z-index: 98;
+	transform: rotate(-90deg);
+	transform-orgin: left top 0;
+	padding-right: 60px;
+	
+	
+}
+
+body.nine h2 {
+	margin-top: 35px;
+	padding: 2px 0 2px 0;
+	color: blue;
+	text-align: center;
+	z-index: 99;
+	font-family: Helvetica;
+	font-size: 20px;
+	font-weight: normal;
+	letter-spacing: 1px;
+	
+}
+
+
+body.nine p {
+	font-family: 'Helvetica';
+font-size: 12px;
+letter-spacing: 1px;
+line-height: 16px;
+padding-top: 20px;
+
+}
+
+body.nine #container {
+
+}
+
+body.nine .text {
+	padding-top: 500px;
+	text-align: center;	
+	color: blue;
+}
+
+
+/*ten_ocularjoyfoundation*/
+
+body.ten {
+	background-color: rgb(252, 252, 252);
+	
+}
+body.ten .pic {
+	padding-top: 30px;
+}
+
+
+body.ten header {
+	font-family: "Helvetica", "sans-serif";
+	font-size: 12px;
+	color: #8f8f8f; 
+
+
+}
+
+body.ten h1 {
+	font-family:'Alegreya Sans SC', sans-serif;
+	font-style: light;
+	margin-left: 0px;
+	
+	
+}
+
+body.ten h2 {
+	font-family:'Alegreya Sans SC', sans-serif;
+	
+	
+}
+
+
+body.ten p {
+
+}
+
+body.ten #container {
+
+}
+
+body.ten .text {
+
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-family: "Helvetica", "sans-serif";
+	font-size: 12px;
+	color: #8f8f8f;
+	border-radius: 4px;
+	background-color: rgb(252,252,252);
+	width: 400px;
+	margin: auto;
+	padding: 20px;
+	margin-top: 30px;
+	padding-left: 250px
+}
+
+
+/*eleven_confettisystem.com/news*/
+#leftNav {
+	width: 20%;
+	float: left;
+	margin-top: 500px;
+	display: inline-block;
+
+}
+
+body.eleven {
+	background-color: #FB8280;
+	
+}
+
+
+body.eleven header {
+	margin-left: 0px;
+
+}
+
+body.eleven h1 {
+	font-family: 'Quicksand', sans-serif;
+	font-size: 15px;
+	color: #666;
+	
+	
+}
+
+body.eleven h2 {
+	font-family: 'Quicksand', sans-serif;
+	font-size: 15px;
+	color: #666;
+	
+	
+}
+
+
+body.eleven p {
+	font-family: Helvetica,Arial,sans-serif;
+	font-size: 11px;
+	color: #666;
+	line-height: 17px;
+	margin-left: 200px
+
+}
+
+body.eleven blockquote {
+	font-family: Helvetica,Arial,sans-serif;
+	font-size: 11px;
+	color: white;
+	margin-left: 250px
+}
+body.eleven #container {
+	width: 700px;
+	
+}
+
+body.eleven .text {
+
+}
+
+
+/*twelve_http://www.positivedisciplining.com/*/
+
+body.twelve {
+	 
+background-color: rgb(192, 192, 192);
+margin-bottom: 0px;
+margin-top: 0px;
+margin-right: 0px;
+margin-left: 0px;
+background-image: url(http://www.positivedisciplining.com/g1emb14.gif);
+}
+	
+
+
+body.twelve header {
+
+
+}
+
+body.twelve h1 {
+	background-color: rgb(182, 205, 245);
+	padding: 0px;
+	text-align: center;
+	margin-top: 200px;
+	
+	
+}
+
+body.twelve h2 {
+	background-color: rgb(245,255,255);
+	padding: 0px;
+	text-align: center;	
+	
+	
+}
+
+
+body.twelve p {
+	background-color: white;
+
+}
+
+body.twelve #container {
+	
+
+}
+
+body.twelve .text {
+	display: block;
+	background: white;
+	width: 800px;
+	margin: auto;
+	margin-top: 200px;
+
+}
+
+
+/*thirteen majorwholesaleflorist.com*/
+
+body.thirteen {
+	
+	
+}
+
+body.thirteen header {
+
+}
+
+body.thirteen h1 {
+	
+	
+}
+
+body.thirteen h2 {
+	
+	
+}
+
+
+body.thirteen p {
+
+}
+
+body.thirteen #container {
+
+}
+
+body.thirteen .text {
+
+}
+
+
+/*fourteen*/
+
+body.fourteen {
+	
+	
+}
+
+body.fourteen header {
+
+}
+
+body.fourteen h1 {
+	
+	
+}
+
+body.fourteen h2 {
+	
+	
+}
+
+
+body.fourteen p {
+
+}
+
+body.fourteen #container {
+
+}
+
+body.fourteen .text {
+	
+
+
+}
+
+
+/*fifteen*/
+
+body.fifteen {
+	
+	
+}
+
+body.fifteen header {
+	font-family: helvetica;
+	font-size: 200px;
+
+}
+
+body.fifteen h1 {
+	background-color: red;
+	
+	
+}
+
+body.fifteen h2 {
+	margin-left: 900px;
+	background: orange;
+
+	
+	
+}
+
+
+body.fifteen p {
+
+}
+
+body.fifteen #container {
+
+}
+
+body.fifteen .text {
+	display: block 4px;
+	border-radius: red;
+	background: black;
+	font-size: 72px;
+	color: green;
+	width: 100px;
+	margin: auto;
+	margin-top: 200px;
+
+}
+
+
+/*sixteen*/
+
+body.sixteen {
+	
+	
+}
+
+body.sixteen header {
+	background-color: magenta;
+	width: 6px;
+	font-size: 8px;
+	margin-left: 30px;
+
+}
+
+body.sixteen h1 {
+	
+	
+}
+
+body.sixteen h2 {
+	
+	
+}
+
+
+body.sixteen p {
+
+}
+
+body.sixteen #container {
+
+}
+
+body.sixteen .text {
+	display: block 4px;
+	border-radius: red;
+	background: magenta;
+	font-size: 72px;
+	color: green;
+	width: 500px;
+	margin: auto;
+	margin-top: 200px;
+	border-left: 20px solid red;
+	box-shadow: 200px 200px 200px rgba(0, 0, 0, 0.75);
+	font-size: 15px;
+	margin-bottom: 500px;
+
+
+}
+
+
+/*seventeen*/
+
+body.seventeen {
+	background-image: url(http://www.positivedisciplining.com/g1emb14.gif);
+	
+}
+
+body.seventeen header {
+		display: block;
+		background-color: black;
+		text-align: center;
+		font-size: 100px;
+		font-family: impact;
+
+		color: purple;
+		border-left:inset gold; 
+		border-top: 20px solid gold;
+		border-bottom: 30px solid gold;
+		margin-bottom: 200px;
+
+
+}
+
+body.seventeen h1 {
+
+	
+}
+
+body.seventeen h2 {
+	background: purple;
+	color: black;
+	padding-top: 200px;
+	padding-bottom: 200px;
+	margin-bottom: 500px;
+	
+	
+}
+
+
+body.seventeen p {
+
+}
+
+body.seventeen #container {
+
+}
+
+body.seventeen .text {
+	display: block;
+	background-color: black;
+	color: purple;
+	border-left: 20px solid gold;
+	border-top: 20px solid gold;
+	border-bottom: 30px solid gold;
+	text-align: right;
+	font-size: 30px; 
+	font-family: helvetica;
+	padding-bottom: 1000px;
+
+
+
+
+}
+
+
+	
+
+/*eighteen*/
+
+body.eighteen {
+	
+	
+}
+
+body.eighteen header {
+	display: block;
+	background-color: grey;
+	border-top: 20px solid red;
+	text-align: right;
+
+
+	width: 900px;
+	margin: auto;
+
+}
+
+body.eighteen h1 {
+	
+	
+}
+
+body.eighteen h2 {
+	
+	
+}
+
+
+body.eighteen p {
+
+}
+
+body.eighteen #container {
+
+}
+
+body.eighteen .text {
+		display: block;
+		background-color: grey;
+		border-top: 20px solid red;
+		width: 110px;
+		text-align: center;
+		padding-top: 600px;
+		font-family: helvetica;
+
+}
+
+
+/*nineteen*/
+
+body.nineteen {
+	
+	
+}
+
+body.nineteen header {
+	color: white;
+	text-align: center;
+	width: 100%;
+	background-color: pink;
+	text-decoration: line-through;
+	font-size: 100px;
+	font-family: 'Alegreya Sans SC', sans-serif;
+	margin-top: 0px;
+}
+
+body.nineteen h1 {
+	
+	
+}
+
+body.nineteen h2 {
+	
+	
+}
+
+
+body.nineteen p {
+	display: inline-block;
+	background: rgb(144, 206, 248);
+	box-shadow: 200px 200px 200px rgba(215, 77, 180, 0.75);
+	width: 300px;
+	font-family: Lucida Console, Monaco, monospace;
+
+
+}
+
+body.nineteen #container {
+	background-color: navy;
+
+
+}
+
+body.nineteen .text {
+	color:gold;
+
+
+}
+
+
+/*twenty*/
+
+body.twenty {
+	
+	
+}
+
+body.twenty header {
+	color: rgb(252, 252, 248);
+	text-shadow: 300px 300px 300px rgba(215, 77, 180, 0.75);
+	text-align: right;
+	margin-right: 200px;
+	margin-bottom: 200px;
+	font-family: 'Quicksand', sans-serif;
+
+}
+
+body.twenty h1 {
+	
+	
+}
+
+body.twenty h2 {
+	
+	
+}
+
+body.twent. blockquote {
+	color: white:;
+}
+body.twenty p {
+
+}
+
+body.twenty #container {
+
+}
+
+body.twenty .text {
+
+	color: rgb(252, 252, 248);
+
+	text-shadow: 200px 200px 200px rgba(215, 77, 180, 0.75);
+	font-family: 'Quicksand', sans-serif;
+	line-height: 20px,
+
+}
 
 
 
