@@ -639,7 +639,7 @@ body.twelve .text {
 }
 
 
-/*thirteen majorwholesaleflorist.com*/
+/*thirteen rufus corporation.com*/
 
 body.thirteen {
 	font-family: Arial;
@@ -689,15 +689,21 @@ body.thirteen .text {
 }
 
 
-/*fourteen*/
+/*Eric Hu*/
 
 body.fourteen {
-	
+	font: 52px 'Big Caslon','Times New Roman',Times,serif;
+letter-spacing: 1px;
+-webkit-transition: width 0.4s, height 0.4s;
+-moz-transition: width 0.4s, height 0.4s;
+-o-transition: width 0.4s, height 0.4s;
+-ms-transition: width 0.4s, height 0.4s;
+transition: width 0.4s, height 0.4s;
+margin-right: 10px;
 	
 }
 
 body.fourteen header {
-
 }
 
 body.fourteen h1 {

@@ -577,10 +577,19 @@ body.thirteen.button {
 /*fourteen*/
 
 body.fourteen {
-
+	background-color: #7A827D;
 }
 
 body.fourteen header {
+	z-index: 1;
+	width: 135px;
+	height: 232px;
+	background-color: white;
+	layer-background-color: #003366;
+	visibility: visible;
+	font-family: Arial;
+	font-size: 12px;
+	color: #000;
 	
 
 }
@@ -594,8 +603,13 @@ body.fourteen h2 {
 	
 }
 
-body.fourteen.button {
-	
+body.fourteen .button {
+		height: 200px;
+		position: fixed;
+		top: 350px;
+		right: 0;
+ 	
+
 		
 
 }
