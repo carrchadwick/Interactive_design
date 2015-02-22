@@ -540,21 +540,31 @@ body.twelve.button {
 /*thirteen*/
 
 body.thirteen {
+	background-repeat: url("images/18.jpg");
+	background-color: black;
+	padding-top: 50px;
+	padding-bottom: 500px;
 
 }
 
 body.thirteen header {
+	text-align: right;
+	color: rgb(48, 49, 43);
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 8pt;
+	margin-bottom: 100px;
 	
 
 }
 
 body.thirteen h1 {
+	letter-spacing: 300px;
 
 	
 }
 
 body.thirteen h2 {
-	
+	margin-bottom: 100px;
 }
 
 body.thirteen.button {

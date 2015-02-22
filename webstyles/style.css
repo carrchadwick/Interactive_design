@@ -153,8 +153,8 @@ body.four .text {
 body.five {
 	font-family: Lucida Console, Monaco, monospace;
 	font-size: 12px;
-	color: #333;
-	background-color: rgb(226, 0, 26);
+	color: #333;;
+	background-color: rgb(226, 0, 26)
 }
 
 body.five header {
@@ -642,11 +642,19 @@ body.twelve .text {
 /*thirteen majorwholesaleflorist.com*/
 
 body.thirteen {
-	
+	font-family: Arial;
+	font-size: 12px;
+	color: #000;
 	
 }
 
 body.thirteen header {
+	z-index: 1;
+	width: 135px;
+	height: 232px;
+	background-color: #7A827D;
+	layer-background-color: #003366;
+	visibility: visible;
 
 }
 
@@ -660,8 +668,15 @@ body.thirteen h2 {
 	
 }
 
+body.thirteen blockquote{
+	text-align: center;
+	font-weight: bold;
+}
 
 body.thirteen p {
+	display: block;
+	margin-left: 400px;
+	margin-right: 150px;
 
 }
 
