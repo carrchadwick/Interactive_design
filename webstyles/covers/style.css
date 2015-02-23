@@ -711,13 +711,13 @@ body.seventeen header {
 }
 
 body.seventeen h1 {
-color:white;
+color: rgb(255,255,245);
 		font-size: 500px;
 	
 }
 
 body.seventeen h2 {
-	color:white;
+	color: rgb(255,255,245);
 		font-size: 500px;
 }
 
@@ -832,16 +832,46 @@ body.twenty header {
 }
 
 body.twenty h1 {
+	display: block;
+	background-color: grey;
+	border-top: 20px solid red;
+	text-align: left;
+	width: 900px;
+	height: 100px;
+	margin-left: 0px;
+
 
 	
 }
 
 body.twenty h2 {
+	display: block;
+		background-color: grey;
+		border-top: 20px solid red;
+		width: 110px;
+		height: 1000px;
+		text-align: center;
+		padding-top: 600px;
+		font-family: helvetica;
+		margin-left: 1100px;
 	
 }
 
-body.twenty.button {
-	
+body.twenty .button {
+	top: 150px;
+	position: fixed;
+	margin-top: 5px;
+
 		
-
 }
+
+
+
+
+
+
+
+
+
+
+
