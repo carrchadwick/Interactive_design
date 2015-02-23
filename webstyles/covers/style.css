@@ -608,6 +608,7 @@ body.fourteen .button {
 		position: fixed;
 		top: 350px;
 		right: 0;
+
  	
 
 		
@@ -622,6 +623,14 @@ body.fifteen {
 }
 
 body.fifteen header {
+		font: 52px 'Big Caslon','Times New Roman',Times,serif;
+		letter-spacing: 1px;
+		-webkit-transition: width 0.4s, height 0.4s;
+		-moz-transition: width 0.4s, height 0.4s;
+		-o-transition: width 0.4s, height 0.4s;
+		-ms-transition: width 0.4s, height 0.4s;
+		transition: width 0.4s, height 0.4s;
+		margin-right: 10px;
 	
 
 }
@@ -645,51 +654,76 @@ body.fifteen.button {
 /*sixteen*/
 
 body.sixteen {
+	font-family: Impact;
+
 
 }
 
 body.sixteen header {
 	
-
 }
 
 body.sixteen h1 {
+	text-align: center;
 
 	
 }
 
 body.sixteen h2 {
+	font-size: 5px;
+	text-align: center;
 	
 }
 
-body.sixteen.button {
-	
+body.sixteen .button {
+    -webkit-animation: spin .1s infinite linear;
+    animation: spin .1s infinite linear;
+}
+@-webkit-keyframes spin {
+    100% { -webkit-transform: rotate(360deg); }
+}
+@-moz-keyframes spin {
+    100% { -moz-transform: rotate(360deg); }
+}
+@keyframes spin {
+    100% {
+        -moz-transform:rotate(360deg);
+        -o-transform:rotate(360deg);
+        transform:rotate(360deg);
+    }
+}
+
+	}
+
 		
-
-}
-
 
 /*seventeen*/
 
 body.seventeen {
-
+	
 }
 
 body.seventeen header {
+		background-image: url("images/23.gif");
+		height: 5000px;
+		margin-top: 0px;
 	
-
 }
 
 body.seventeen h1 {
-
+color:white;
+		font-size: 500px;
 	
 }
 
 body.seventeen h2 {
-	
+	color:white;
+		font-size: 500px;
 }
 
-body.seventeen.button {
+body.seventeen .button {
+	margin-left: 500px;
+
 	
 		
 
@@ -699,6 +733,15 @@ body.seventeen.button {
 /*eighteen*/
 
 body.eighteen {
+		position: fixed;
+	top: 0;
+	left: 0;
+	background-color: #aaa2a2;
+	width: 234px;
+	height: 100%;
+	color: #0645ad;
+	font: 62.5%/1.4em 'Brutal Type', sans-serif;
+	padding-top: 30px;
 
 }
 
@@ -708,6 +751,12 @@ body.eighteen header {
 }
 
 body.eighteen h1 {
+		display: block;
+	font-size: 150%;
+line-height: 1.4em;
+padding-right: 250px;
+padding-left: 300px;
+color: #aaa2a2;
 
 	
 }
@@ -716,7 +765,12 @@ body.eighteen h2 {
 	
 }
 
-body.eighteen.button {
+body.eighteen .button {
+	margin-left: 90px;
+	-webkit-filter: drop-shadow(30px 30px 30px rgba(0,0,0,5.5));
+    filter: url(#drop-shadow);
+    -ms-filter: "progid:DXImageTransform.Microsoft.Dropshadow(OffX=12, OffY=12, Color='#444')";
+    filter: "progid:DXImageTransform.Microsoft.Dropshadow(OffX=12, OffY=12, Color='#444')";
 	
 		
 
@@ -726,6 +780,9 @@ body.eighteen.button {
 /*nineteen*/
 
 body.nineteen {
+background-color: rgb(245,255,255);
+}
+	
 
 }
 
@@ -735,15 +792,28 @@ body.nineteen header {
 }
 
 body.nineteen h1 {
+	background-color: rgb(245,255,255);
+	color: green;
+	font-style: italic;
+	position: absolute;
+    white-space: nowrap;
+    -webkit-animation: rightThenLeft 4s linear;
+}
 
-	
+@-webkit-keyframes rightThenLeft {
+    0%   {left: 0%;}
+    50%  {left: 100%;}
+    100% {left: 0%;}
+}
 }
 
 body.nineteen h2 {
-	
+	text-align: center;
+
 }
 
-body.nineteen.button {
+body.nineteen .button {
+	margin-left: 800px;
 	
 		
 
