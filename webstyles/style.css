@@ -1,13 +1,59 @@
+/* nav bar */
+
+.back {
+	position: fixed;
+	top: 0;
+	left: 0;
+}
+.forward {
+	position: fixed;
+	top: 0;
+	left: 30px;
+}
+.home {
+	position: fixed;
+	top: 0;
+	left: 56px;
+}
+.bar {
+	position: fixed;
+	top: 0;
+	left: 84px;
+	max-width: 100%;
+}
+
+.navbar {
+	border-bottom: 1px solid black;	
+
+}
+
+.navbar-button {
+	padding: 0;
+	margin: 0;
+	display: inline-block;
+	-webkit-filter: drop-shadow(10px 2px 5px rgba(0,0,0,5.5));
+    filter: url(#drop-shadow);
+    -ms-filter: "progid:DXImageTransform.Microsoft.Dropshadow(OffX=12, OffY=12, Color='#444')";
+    filter: "progid:DXImageTransform.Microsoft.Dropshadow(OffX=12, OffY=12, Color='#444')";
+
+}
+
+
+
 /*style one*/
 
 body.one {
 	background: yellow;
+
 }
 
 body.one h1{
 	font-family: Impact;
 }
 
+body.one h2{
+	font-family: Impact;
+}
 
 
 /*style two_twitter*/
