@@ -127,6 +127,7 @@ body.three header {
 }
 
 body.three h1 {
+	margin-top: 32px;
 	font-size: 20px;
 	background: url(http://www.positivedisciplining.com/g1emb14.gif);
 	color: white;
@@ -361,7 +362,7 @@ body.eight h1 {
 }
 
 body.eight h2 {
-	margin-top: 70px;
+
 	font: normal 200px/ 100px 'Nixie One', Helvetica, Arial;
 	line-height: 200px;
 	text-align: center;
@@ -492,10 +493,9 @@ body.eleven header {
 }
 
 body.eleven h1 {
-
-	background-color: black;
+	margin-top: 70px;
+	background-color: red;
 	color: white;
-	display:inline;
 	text-transform: uppercase;
 	font-size: 30pt;
 	letter-spacing: 20pt;
@@ -621,6 +621,7 @@ body.fourteen {
 }
 
 body.fourteen header {
+	margin-top: 30px;
 	z-index: 1;
 	width: 135px;
 	height: 232px;
