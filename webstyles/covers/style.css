@@ -361,7 +361,7 @@ body.eight h1 {
 }
 
 body.eight h2 {
-
+	margin-top: 70px;
 	font: normal 200px/ 100px 'Nixie One', Helvetica, Arial;
 	line-height: 200px;
 	text-align: center;
@@ -746,22 +746,23 @@ body.seventeen {
 body.seventeen header {
 		background-image: url("images/23.gif");
 		height: 5000px;
-		margin-top: 0px;
+	
 	
 }
 
 body.seventeen h1 {
-color: rgb(255,255,245);
+color: white;
 		font-size: 500px;
 	
 }
 
 body.seventeen h2 {
-	color: rgb(255,255,245);
+	color: white;
 		font-size: 500px;
 }
 
 body.seventeen .button {
+	margin-top: 1800px;
 	margin-left: 500px;
 
 	
