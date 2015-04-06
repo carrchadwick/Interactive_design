@@ -494,7 +494,7 @@ body.map {
 body.map .arrow{
 	padding-left: 50%;
 }
-
+/*
 .chair{
 	margin-left: 300px;
 	position: relative;
@@ -514,5 +514,5 @@ body.map .arrow{
         transform:rotate(360deg);
     }
 
-
+*/
 
