@@ -1,6 +1,6 @@
 .enter {
 	z-index: 100;
-	position: fixed;
+	position: ;
 	max-height: 100%;
 }
 
@@ -56,6 +56,10 @@
 }
 
 .three {
+	max-width: 100%;
+}
+
+.halo {
 	max-width: 100%;
 }
 
@@ -349,6 +353,10 @@ body.next .cone{
 		top: 50%;
 		height: 50%;	
 }
+
+body.next .halo{
+	
+}
 body.next #nextbackground{
 	position: fixed;
 	top: 0; left: 0;
@@ -381,9 +389,7 @@ body.spherebig {
 
 }
 body.spherebig .enter{
-	position: fixed;
-	top: 700px;
-	left: 100px;
+
 	z-index: 100;
 }
 
@@ -428,9 +434,7 @@ body.pyramid {
 
 }
 body.pyramid .enter{
-	position: fixed;
-	top: 700px;
-	left: 100px;
+
 	z-index: 100;
 }
 body.pyramid #pyramidbackground{
@@ -460,9 +464,7 @@ body.cube #backgroundcube {
 
 } 
 body.cube .enter{
-		position: fixed;
-	top: 700px;
-	left: 100px;
+	
 	z-index: 100;
 
 }
