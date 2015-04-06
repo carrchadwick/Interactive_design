@@ -5,7 +5,9 @@
 }
 
 .thisthurs{
+	position: top;
 	max-width: 100%;
+	z-index: 100;
 }
 
 .heavenhappens{
@@ -18,6 +20,14 @@
 
 .pyramid {
 	max-width: 100%;
+}
+
+.pyramidtwo {
+	max-width: 50%
+}
+
+.triangleoutline {
+	max-width: 30%
 }
 .cone {
 	max-width: 100%;
@@ -275,30 +285,11 @@ margin-top: 2000px;
     }
 
 body.space .three{
-	padding-top: 400px;
-	margin-top: 2500px;
+	
+	padding-top: 200px;
 	margin-left: 50px; 
-	position: relative;
-	    -webkit-animation: spin 4s infinite linear;
-    animation: spin 4s infinite linear;
 }
-@-webkit-keyframes spin {
-    100% { -webkit-transform: rotate(360deg); }
-}
-@-moz-keyframes spin {
-    100% { -moz-transform: rotate(360deg); }
-}
-@keyframes spin {
-    100% {
-        -moz-transform:rotate(360deg);
-        -o-transform:rotate(360deg);
-        transform:rotate(360deg);
-    }
-	padding-top: 6000px;
-	margin-top: 8000px;
-	margin-left: 300px; 
-	padding-bottom: 700px;
-	}
+	
 
 
 body.space .four{
