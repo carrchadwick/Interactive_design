@@ -224,26 +224,7 @@ body.space {
 		background-size: 100%;
 	
 }
-.chair{
-	margin-left: 300px;
-	position: relative;
-	    -webkit-animation: spin 10s infinite linear;
-    animation: spin 10s infinite linear;
-}
-@-webkit-keyframes spin {
-    100% { -webkit-transform: rotate(360deg); }
-}
-@-moz-keyframes spin {
-    100% { -moz-transform: rotate(360deg); }
-}
-@keyframes spin {
-    100% {
-        -moz-transform:rotate(360deg);
-        -o-transform:rotate(360deg);
-        transform:rotate(360deg);
-    }
-}
-}
+
 
 body.space .button {
 	margin-top: 500px;
@@ -522,6 +503,24 @@ body.map .arrow{
 	padding-left: 50%;
 }
 
+.chair{
+	margin-left: 300px;
+	position: relative;
+	    -webkit-animation: spin 10s infinite linear;
+    animation: spin 10s infinite linear;
+}
+@-webkit-keyframes spin {
+    100% { -webkit-transform: rotate(360deg); }
+}
+@-moz-keyframes spin {
+    100% { -moz-transform: rotate(360deg); }
+}
+@keyframes spin {
+    100% {
+        -moz-transform:rotate(360deg);
+        -o-transform:rotate(360deg);
+        transform:rotate(360deg);
+    }
 
 
 
