@@ -1,5 +1,6 @@
 .enter {
 	z-index: 100;
+	position: ;
 	max-height: 100%;
 }
 
@@ -22,11 +23,11 @@
 }
 
 .pyramidtwo {
-	max-width: 50%
+	max-width: 50%;
 }
 
 .triangleoutline {
-	max-width: 30%
+	max-width: 30%;
 }
 .cone {
 	max-width: 100%;
@@ -73,7 +74,7 @@
 }
 
 .welcome {
-	max-width: 50%
+	max-width: 50%;
 }
 
 body.one header {
@@ -309,7 +310,7 @@ margin-top: 2000px;
     }
 }
 	
-
+}
 
 body.gates {
 /*	background-image: url("images/heaven.jpg");
@@ -360,6 +361,7 @@ body.next .cone{
 body.next .halo{
 	
 }
+
 body.next #nextbackground{
 	position: fixed;
 	top: 0; left: 0;
@@ -494,7 +496,7 @@ body.map {
 body.map .arrow{
 	padding-left: 50%;
 }
-/*
+
 .chair{
 	margin-left: 300px;
 	position: relative;
@@ -513,6 +515,6 @@ body.map .arrow{
         -o-transform:rotate(360deg);
         transform:rotate(360deg);
     }
+}
 
-*/
 
