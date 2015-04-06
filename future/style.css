@@ -73,6 +73,10 @@
 	max-width: 100%;
 }
 
+.welcome {
+	max-width: 50%
+}
+
 body.one header {
 		color: rgb(250, 250, 248);
 		text-shadow: 300px 300px 300px rgba(215, 77, 180, 0.75);
@@ -242,7 +246,7 @@ body.space .button {
     }
 }
 body.space .one{
-	margin-top: 1500px;
+	margin-top: 1000px;
 	margin-left: 300px; 
 	position: relative;
 	    -webkit-animation: spin 4s infinite linear;
@@ -265,7 +269,7 @@ body.space .one{
 }
 
 body.space .two{
-margin-top: 2000px;
+margin-top: 1500px;
 	margin-left: 50px; 
 	position: relative;
 	    -webkit-animation: spin 4s infinite linear;
@@ -285,9 +289,24 @@ margin-top: 2000px;
     }
 
 body.space .three{
-	
-	padding-top: 200px;
+margin-top: 2000px;
 	margin-left: 50px; 
+	position: relative;
+	    -webkit-animation: spin 4s infinite linear;
+    animation: spin 4s infinite linear;
+}
+@-webkit-keyframes spin {
+    100% { -webkit-transform: rotate(360deg); }
+}
+@-moz-keyframes spin {
+    100% { -moz-transform: rotate(360deg); }
+}
+@keyframes spin {
+    100% {
+        -moz-transform:rotate(360deg);
+        -o-transform:rotate(360deg);
+        transform:rotate(360deg);
+    }
 }
 	
 
