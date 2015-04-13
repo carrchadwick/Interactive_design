@@ -32,7 +32,9 @@
 .cone {
 	max-width: 100%;
 }
-
+.ball{
+	max-width: 20%
+}
 .cube {
 	max-width: 100%;
 }
@@ -75,6 +77,12 @@
 
 .welcome {
 	max-width: 50%;
+}
+
+.afterparty {
+	max-width: 100%;
+	z-index: 100;
+
 }
 
 body.one header {
@@ -375,6 +383,12 @@ body.next .blocks{
 	right: 10%;
 	top: 10%;
 }
+body.next .ball{
+	position: fixed;
+	max-width: 20%;
+	right: 5%;
+	top: 70%;
+}
 
 body.after {
 	background-image: url("images/afterbackground.jpg");
@@ -518,3 +532,21 @@ body.map .arrow{
 }
 
 
+.heavenhappened #heavenhappenedbackground{
+	background-image: url("images/heavenhappenedbackground.jpg");
+	position: fixed;
+	top: 0; left: 0;
+	width: 2000px;
+	z-index:-100;
+	padding-bottom: 800px;
+
+}
+
+.afterparty {
+	position: fixed;
+	top: 70px;
+	z-index: 100;
+}
+
+
+}
