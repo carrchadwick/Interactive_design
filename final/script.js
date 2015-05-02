@@ -4,6 +4,7 @@ $.ajax({
     "dataType":"jsonp",
     //Make a call to the Kimono API following the "url" 
     
+    
     'success': function(response){ 
     // If the call request was successful and the data was retrieved, this function will create a list displaying the data
          
