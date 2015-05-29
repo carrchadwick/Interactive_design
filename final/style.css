@@ -224,7 +224,7 @@
 	margin-top: 250px;
 	margin-left: 180px;
 		    -webkit-animation: spin 3600s infinite linear;
-    animation: spin 3s infinite linear;
+    animation: spin s infinite linear;
 }
 @-webkit-keyframes spin {
     100% { -webkit-transform: rotate(360deg); }
